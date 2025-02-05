@@ -1,3 +1,5 @@
+%% Head Function for storing the performance data's different RPM points
+
 function position = headFun(cellArray,stringa)
 % Expects a 1×17 cell array and a character array as input
 % 
